@@ -1,0 +1,3 @@
+<ul id="dialogs">
+    
+</ul>
